@@ -7,7 +7,7 @@ with a few minor changes. */
 .title  { text-align: left;}
 .todo   { font-family: monospace; color: red; }
 .done   { color: green; }
-.tag    { background-color: #eee; font-family: monospace;
+.tag    { background-color: #000000; font-family: monospace;
           padding: 2px; font-size: 80%; font-weight: normal; }
 .timestamp { color: #bebebe; }
 .timestamp-kwd { color: #5f9ea0; }
